@@ -1,4 +1,4 @@
-
+## Sharpe Ratio Calculation
 Created by William Sharpe in 1994 
 
 Installations
