@@ -11,19 +11,19 @@ Installations
 
 Once the modules are installed, we begin the code
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas_datareader as web
-import datetime
-from math import *
-import scipy
-import statsmodels.api as sm
-from statsmodels.nonparametric.kernel_density import KDEMultivariate
-from sklearn.model_selection import GridSearchCV
-from sklearn.neighbors import KernelDensity
-from scipy.optimize import minimize
-from scipy.integrate import quad
+    import pandas as pd
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import pandas_datareader as web
+    import datetime
+    from math import *
+    import scipy
+    import statsmodels.api as sm
+    from statsmodels.nonparametric.kernel_density import KDEMultivariate
+    from sklearn.model_selection import GridSearchCV
+    from sklearn.neighbors import KernelDensity
+    from scipy.optimize import minimize
+    from scipy.integrate import quad
 
 
 Once we have imported the necessary modules, we can begin to construct the desired portfolio
